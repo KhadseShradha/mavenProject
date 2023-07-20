@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-20T13:27:14 IST" name="Suite" finished-at="2023-07-20T13:30:27 IST" duration-ms="193178">
+    <groups>
+    </groups>
+    <test started-at="2023-07-20T13:27:14 IST" name="Test" finished-at="2023-07-20T13:30:27 IST" duration-ms="193178">
+      <class name="Demo.Amazon">
+        <test-method signature="AmazonTest()[pri:0, instance:Demo.Amazon@6c64cb25]" started-at="2023-07-20T13:29:49 IST" name="AmazonTest" finished-at="2023-07-20T13:30:27 IST" duration-ms="37499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AmazonTest -->
+      </class> <!-- Demo.Amazon -->
+      <class name="Demo.FlipkartTest">
+        <test-method signature="f()[pri:0, instance:Demo.FlipkartTest@245b4bdc]" started-at="2023-07-20T13:28:56 IST" name="f" finished-at="2023-07-20T13:29:49 IST" duration-ms="53723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Demo.FlipkartTest -->
+      <class name="Demo.SnapdealTest">
+        <test-method signature="f()[pri:0, instance:Demo.SnapdealTest@5876a9af]" started-at="2023-07-20T13:27:14 IST" name="f" finished-at="2023-07-20T13:28:56 IST" duration-ms="101727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Demo.SnapdealTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
