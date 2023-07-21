@@ -11,6 +11,6 @@ public class MyntraTest {
 	  WebDriver driver = new ChromeDriver();
 	  driver.get("https://myntra.com/");
 	  driver.close();
-	  Thread.sleep(3000);
+	  Thread.sleep(2000);
   }
 }
